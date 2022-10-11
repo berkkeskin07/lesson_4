@@ -8,3 +8,5 @@ print(kelime[2:11])
 print(kelime[::]) # Tüm Veri
 print(kelime[::2]) # Çift Indexler Geldi
 print(kelime[1:5:2]) #YH
+
+print("Ekstra Git Düzenlenmesi")
